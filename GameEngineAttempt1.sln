@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{EB580805-738C-4A6A-8997-ED5D4B8C28B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{2F8F09C4-1ABC-4175-825B-70C97DD632F8}"
+	ProjectSection(SolutionItems) = preProject
+		Main.cs = Main.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{3ECF9A03-AD1D-410E-A829-D9DDC9D50158}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F8F09C4-1ABC-4175-825B-70C97DD632F8} = {EB580805-738C-4A6A-8997-ED5D4B8C28B6}
+		{3ECF9A03-AD1D-410E-A829-D9DDC9D50158} = {2F8F09C4-1ABC-4175-825B-70C97DD632F8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4006660-7AE5-4C86-BCCD-91DA5F1C0BD1}
+	EndGlobalSection
+EndGlobal
